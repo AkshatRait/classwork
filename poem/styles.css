@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Poor+Story&display=swap');
+body{
+    font-family: 'Island Moments', cursive;
+}
+h1{font-weight: 1000;
+    font-style:italic;
+    Text-decoration:underline;
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+p{font-size: xx-large;}
